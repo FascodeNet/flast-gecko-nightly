@@ -1,7 +1,7 @@
 Summary: Flast Gecko Nightly Build
 Name: flast-gecko-nightly
 Version: 87.0a1
-Release: 10%{?dist}
+Release: 1%{?dist}
 Group: User Interface/Desktops
 License: NONE
 Packager: kokkiemouse
